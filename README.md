@@ -1,1 +1,1 @@
-# IBM_python_for_ai_labs
+# Here you can find all Jupiter notebooks of Python for AI course by IBM
